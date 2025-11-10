@@ -1,3 +1,5 @@
+## REG.NO:212224110035
+
 # Experiment 4: DeFi Lending and Borrowing Protocol
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
@@ -93,5 +95,7 @@ Introduces risk management: overcollateralization and liquidation.
 
 Directly related to DeFi protocols like Aave and Compound.
 
-# RESULT : 
+<img width="1435" height="998" alt="Screenshot 2025-11-06 134108" src="https://github.com/user-attachments/assets/7f4ff3f4-b38d-4279-9b43-cec08b68012e" />
 
+# RESULT : 
+Thus the  decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
